@@ -1,7 +1,7 @@
 #DiabloDB
 Welcome to DiabloDB!
 
-#build:
+#Build:
 mkdir build
 cd build
 cmake ..
