@@ -1,4 +1,4 @@
-DiabloDB README
+DiabloDB
 ====================
 
 Welcome to DiabloDB!
